@@ -109,26 +109,23 @@ middleware/            # Authentication middlewares
 
 ## 📚 Future Enhancements
 
-Multi-user support with real-time collaboration
-
-Export reports in PDF or Excel format
-
-Advanced charts with filters (time range, categories)
-
-Push notifications for budget limits
+- Multi-user support with real-time collaboration
+- Export reports in PDF or Excel format
+- Advanced charts with filters (time range, categories)
+- Push notifications for budget limits
 
 ```
 
 ## 📞 Contact
 
-👤 Created by Aniket Bhoir
+```👤 Created by Aniket Bhoir
 📧 Email: aniket@example.com
 🔗 GitHub Profile
-
 ```
 
 ## ⭐️ Support
 
-If you find this project useful, feel free to ⭐️ the repo!
-Made with ❤️ MERN + Tailwind CSS
+- If you find this project useful, feel free to ⭐️ the repo!
+- Made with ❤️ MERN + Tailwind CSS
+
 ```

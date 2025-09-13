@@ -119,7 +119,7 @@ middleware/            # Authentication middlewares
 ## 📞 Contact
 
 ```👤 Created by Aniket Bhoir
-📧 Email: aniket@example.com
+📧 Email: aniketbhoir373@gmail.com
 🔗 GitHub Profile
 ```
 

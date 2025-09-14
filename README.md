@@ -78,8 +78,30 @@ This app helps users manage their incomes and expenses, visualize financial data
 
 ## 🎯 Sample Screenshots
 
-![App Screenshot](./path-to-your-screenshot.png)  
-_Example of Income Overview and Dashboard Chart_
+### ➤ Login Page
+![Login](./login.png)
+
+### ➤ Signup Page
+![Signup](./signup.png)
+
+### ➤ Dashboard Overview
+![Dashboard](./dashboard.png)
+
+### ➤ Add Income
+![Add Income](./add-income.png)
+
+### ➤ Add Expense
+![Add Expense](./add-expense.png)
+
+### ➤ Delete Income
+![Delete Income](./delete-income.png)
+
+### ➤ Expense Overview
+![Expense](./expense.png)
+
+### ➤ Income Overview
+![Income](./income.png)
+
 
 ---
 

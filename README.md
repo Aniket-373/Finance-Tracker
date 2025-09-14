@@ -116,7 +116,7 @@ This app helps users manage their incomes and expenses, visualize financial data
 ---
 
 ## 🧱 Project Structure
-
+```bash
 plaintext
 client/                # Frontend (React)
 server/                # Backend (Node.js + Express)
@@ -142,7 +142,6 @@ middleware/            # Authentication middlewares
 
 ```👤 Created by Aniket Bhoir
 📧 Email: aniketbhoir373@gmail.com
-🔗 GitHub Profile
 ```
 
 ## ⭐️ Support

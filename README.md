@@ -88,7 +88,7 @@ This app helps users manage their incomes and expenses, visualize financial data
 ![Dashboard](./dashboard.png)
 
 ### ➤ Add Income
-![Add Income](./add-income.png)
+![Add Income](./add-income'.png)
 
 ### ➤ Add Expense
 ![Add Expense](./add-expense.png)
